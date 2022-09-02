@@ -5,6 +5,8 @@
  <h3>-Drift<h3>
  <h3>-Dio<h3>
  <h3>-Modularization<h3>
+ 
+  <h2>File aplikasi berada dalam folder apk<h2>
   
  ![image](https://user-images.githubusercontent.com/91692235/187742730-9da52e66-56d9-41c6-a683-b027a68cf13b.png)
  
